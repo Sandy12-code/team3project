@@ -1,4 +1,4 @@
-# VICTUALS (Using JavaScript and)
+# VICTUALS (Using JavaScript and API's)
 
 ## App Description
 * A restaurant app, that provides a wine pairing for every food search as well as stores your favorite food and wine pairings
