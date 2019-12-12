@@ -11,7 +11,7 @@
 
 ## Instructions to Run the App
 
-* Clone the file from github. https://github.com/Sandy12-code/train-scheduler
+* Clone the file from github. https://github.com/Sandy12-code/team3project
 
 * Run the applications by simply opening on your default browser.
 
