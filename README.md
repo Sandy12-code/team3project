@@ -20,4 +20,3 @@
 * Bootstrap 4
 * JavaScript
 * jQuery
-## This app was created entirely by Sandy Enow
